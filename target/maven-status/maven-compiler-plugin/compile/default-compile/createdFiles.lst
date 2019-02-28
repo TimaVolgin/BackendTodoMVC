@@ -1,0 +1,11 @@
+ru\hh\school\main\ApplicationResource.class
+ru\hh\school\model\TaskEntity.class
+ru\hh\school\service\TaskService.class
+ru\hh\school\model\TaskDTO.class
+ru\hh\school\main\ApplicationConfig.class
+ru\hh\school\dao\impl\TaskDAOImpl.class
+ru\hh\school\dao\TaskDAO.class
+ru\hh\school\resource\TaskResource.class
+ru\hh\school\dao\TaskDAOFactory.class
+ru\hh\school\main\Application.class
+ru\hh\school\main\ApplicationJerseyConfig.class
